@@ -5,7 +5,11 @@
 /**
  * main - Entry point
  *
+<<<<<<< HEAD
+ * Return: Always 0(success)
+=======
  * Return: Always 0 (Success)
+>>>>>>> adb20de1193f5db9cde06693e44a84911538be12
  */
 int main(void)
 {

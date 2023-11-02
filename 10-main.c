@@ -3,9 +3,15 @@
 #include "binary_trees.h"
 
 /**
+<<<<<<< HEAD
  * main - Entry point
  *
  * Return: Always 0 (Success)
+=======
+ * main - Entry Point
+ *
+ * Return: Always 0
+>>>>>>> b9a891903ea19f325c6a3812d7df9a2237089402
  */
 int main(void)
 {
